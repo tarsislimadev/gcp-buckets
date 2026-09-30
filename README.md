@@ -43,3 +43,7 @@ This initial slice covers the storage core API from the implementation roadmap. 
 docker build -t gcp-storage-manager .
 docker run --rm -p 8000:8000 --env-file .env gcp-storage-manager
 ```
+
+## License
+
+[MIT](./LICENSE)
